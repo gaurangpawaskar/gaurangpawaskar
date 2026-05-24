@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaurang</h1>
-<h3 align="center">Business Analyst | Power BI Developer | Excel & Data Analytics Enthusiast</h3>
+<h3 align="center">Business Analyst | Power BI Developer | MIS & Data Analytics Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Power+BI+Developer;Business+Analyst;Excel+Automation+Expert;Dashboard+Storytelling;Data+Visualization+Enthusiast" />
@@ -10,7 +10,7 @@
 ## 🚀 About Me
 
 - 📊 Business Analyst passionate about transforming data into insights
-- 📈 Skilled in Power BI, Excel, SQL & Dashboard Development
+- 📈 Skilled in Power BI, SQL, Tableau, Advanced Excel & Dashboard Development
 - 🧠 Interested in Data Analytics & Business Intelligence
 - 🎯 Currently building analytics portfolio projects
 - 📍 Based in Mumbai, India
@@ -21,9 +21,9 @@
 
 ### 📊 Analytics & BI
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Advanced Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge)
 ![Power Query](https://img.shields.io/badge/Power_Query-742774?style=for-the-badge)
 
