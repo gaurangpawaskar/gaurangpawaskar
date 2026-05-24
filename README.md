@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-- 📊 Business Analyst passionate about transforming data into insights
+- 📊 Business Analytics Manager passionate about transforming data into insights
 - 📈 Skilled in Power BI, SQL, Tableau, Advanced Excel, Automation & Dashboard Development
 - 🧠 Interested in Data Analytics & Business Intelligence
 - 🎯 Currently building analytics portfolio projects
