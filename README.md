@@ -21,7 +21,8 @@
 
 ### 📊 Analytics & BI
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Advanced Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge)
 ![Power Query](https://img.shields.io/badge/Power_Query-742774?style=for-the-badge)
@@ -35,8 +36,8 @@
 
 ## 📂 Featured Projects
 
-### 🚚 Supply Chain Insights Dashboard
-- Built interactive logistics and supply chain dashboard in Power BI
+### 🚚  Fleet & Logistics Analytics Dashboard
+- Built interactive Fleet & Logistics Analytics Dashboard in Power BI
 - KPI tracking for delivery, inventory & transportation
 - Dynamic filters and business insights
 
