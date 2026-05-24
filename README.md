@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaurang</h1>
-<h3 align="center">Business Analyst | Power BI Developer | Automation & Data Analytics Enthusiast</h3>
+<h3 align="center">Business Analytics Manager | Power BI Developer | Automation & Data Analytics Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Power+BI+Developer;Business+Analyst;Excel+Automation+Expert;Dashboard+Storytelling;Data+Visualization+Enthusiast" />
