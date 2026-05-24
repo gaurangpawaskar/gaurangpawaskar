@@ -38,24 +38,17 @@
 
 ### 🚚  Fleet & Logistics Analytics Dashboard
 - Built interactive Fleet & Logistics Analytics Dashboard in Power BI
-- KPI tracking for delivery, inventory & transportation
+- KPI tracking for Hubs, delivery, inventory & transportation
 - Dynamic filters and business insights
 
-### 📈 Sales Performance Dashboard
-- Regional sales analysis with trend visualization
-- Revenue & profit KPI monitoring
-- Business performance storytelling
+### 🏥 Hospital 360 Analytics Dashboard
+- Comprehensive healthcare analytics dashboard built in Power BI
+- Patient admission, discharge & occupancy analysis
+- Doctor, department & treatment performance tracking
+- KPI monitoring for hospital operations
+- Interactive visuals with dynamic filtering
 
 ### 📊 Excel KPI Tracker
 - Automated reporting using Pivot Tables & formulas
 - Monthly business KPI monitoring
 - Interactive charts and dashboards
-
----
-
-## 📸 Dashboard Preview
-
-(Add your dashboard screenshots here)
-
-```markdown
-![Dashboard](YOUR_IMAGE_LINK)
